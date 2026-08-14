@@ -1,0 +1,16 @@
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Build and tooling output
+/vendor/
+/node_modules/
+/build/
+*.zip
+.phpunit.result.cache
