@@ -39,7 +39,7 @@ tempo reale dal catalogo di OpenRouter.
 **1. Procurati il pacchetto ZIP corretto.**
 
 Scarica l'allegato **`n3xtopenrouter-vX.Y.Z.zip`** dalla pagina
-[Releases](https://github.com/n3xtgentech/moodle-aiprovider_n3xtopenrouter/releases).
+[Releases](https://github.com/n3xtgentechitalia/moodle-aiprovider_n3xtopenrouter/releases/tag/v2).
 
 > ⚠️ **Non usare il link "Source code (zip)" di GitHub.** Quel file ha come cartella
 > radice `moodle-aiprovider_n3xtopenrouter-2.0.0`, mentre Moodle pretende che si
